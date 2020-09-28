@@ -6,8 +6,8 @@ This repository is for my team's final Machine Learning project for the MIT MOST
 
 Below are the links to parts of our final presentation that we presented during the 2020 MOSTEC Symposium.
 
-* [Video of our Presentation](https://drive.google.com/file/d/1ygtvWskAVO4FLUUOWCT_dBOKlEF3CvKA/view?usp=sharing)
-* [Slides for our presentation](https://drive.google.com/file/d/1uAp-rVQLZ24WHNKPJBLMKm04YQtYbrQJ/view?usp=sharing)
+* [Video Of Our Presentation](https://drive.google.com/file/d/1ygtvWskAVO4FLUUOWCT_dBOKlEF3CvKA/view?usp=sharing)
+* [Slides For Our Presentation](https://drive.google.com/file/d/1uAp-rVQLZ24WHNKPJBLMKm04YQtYbrQJ/view?usp=sharing)
 
 ## Authors
 
