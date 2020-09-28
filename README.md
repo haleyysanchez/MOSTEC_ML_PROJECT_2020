@@ -15,4 +15,4 @@ Below are the links to parts of our final presentation that we presented during 
 
 ## Acknowledgments
 
-* Thank you MIT, OEOP staff, our intstructor Amauche Enmari, and MOSTEC for letting us come together and learn and grow so much in such a short amount of time!
+* Thank you MIT, OEOP staff, our intstructor Amauche Emenari, and MOSTEC for letting us come together and learn and grow so much in such a short amount of time!
